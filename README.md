@@ -34,7 +34,7 @@ Output Parser: Pydantic-based schema enforcement
   "summary": "...",
   "sources": ["Wikipedia", "Web Search"],
   "tools_used": ["wiki_tool", "search_web"]
-  
+
 }
 
 **Setup**
